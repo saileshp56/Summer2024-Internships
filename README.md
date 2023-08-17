@@ -3,7 +3,7 @@
 We're back! Use this repo to share and keep track of software, tech, CS, PM, quant internships for **Summer 2024**. The list is maintained collaboratively by the [Pitt Computer Science Club](https://pittcsc.org/) and [Simplify](https://simplify.jobs/)!
 
 
-> **Update (Aug 10, 2023)** :partying_face:
+> **Update (Aug 10, 2ddddddd023)** :partying_face:
 > - Order of postings is now newest to oldest
 > - Sponsorship Information is now shown using emojis (see legend)
 
